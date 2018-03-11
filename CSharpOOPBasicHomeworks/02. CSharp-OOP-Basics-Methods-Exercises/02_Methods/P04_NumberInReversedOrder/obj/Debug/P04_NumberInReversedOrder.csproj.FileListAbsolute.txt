@@ -1,0 +1,5 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P04_NumberInReversedOrder\bin\Debug\P04_NumberInReversedOrder.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P04_NumberInReversedOrder\bin\Debug\P04_NumberInReversedOrder.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P04_NumberInReversedOrder\bin\Debug\P04_NumberInReversedOrder.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P04_NumberInReversedOrder\obj\Debug\P04_NumberInReversedOrder.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P04_NumberInReversedOrder\obj\Debug\P04_NumberInReversedOrder.pdb

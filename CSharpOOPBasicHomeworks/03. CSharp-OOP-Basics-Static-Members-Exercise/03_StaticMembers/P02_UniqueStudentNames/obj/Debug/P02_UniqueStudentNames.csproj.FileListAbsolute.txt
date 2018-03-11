@@ -1,0 +1,5 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P02_UniqueStudentNames\bin\Debug\P02_UniqueStudentNames.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P02_UniqueStudentNames\bin\Debug\P02_UniqueStudentNames.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P02_UniqueStudentNames\bin\Debug\P02_UniqueStudentNames.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P02_UniqueStudentNames\obj\Debug\P02_UniqueStudentNames.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P02_UniqueStudentNames\obj\Debug\P02_UniqueStudentNames.pdb

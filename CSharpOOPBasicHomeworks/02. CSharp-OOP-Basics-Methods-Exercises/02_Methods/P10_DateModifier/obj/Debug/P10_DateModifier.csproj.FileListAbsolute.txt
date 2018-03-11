@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P10_DateModifier\bin\Debug\P10_DateModifier.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P10_DateModifier\bin\Debug\P10_DateModifier.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P10_DateModifier\bin\Debug\P10_DateModifier.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P10_DateModifier\obj\Debug\P10_DateModifier.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P10_DateModifier\obj\Debug\P10_DateModifier.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P10_DateModifier\obj\Debug\P10_DateModifier.pdb

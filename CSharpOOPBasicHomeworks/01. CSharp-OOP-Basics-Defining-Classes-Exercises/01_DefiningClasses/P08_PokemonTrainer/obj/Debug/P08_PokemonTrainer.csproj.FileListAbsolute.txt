@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P08_PokemonTrainer\bin\Debug\P08_PokemonTrainer.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P08_PokemonTrainer\bin\Debug\P08_PokemonTrainer.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P08_PokemonTrainer\bin\Debug\P08_PokemonTrainer.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P08_PokemonTrainer\obj\Debug\P08_PokemonTrainer.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P08_PokemonTrainer\obj\Debug\P08_PokemonTrainer.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P08_PokemonTrainer\obj\Debug\P08_PokemonTrainer.pdb

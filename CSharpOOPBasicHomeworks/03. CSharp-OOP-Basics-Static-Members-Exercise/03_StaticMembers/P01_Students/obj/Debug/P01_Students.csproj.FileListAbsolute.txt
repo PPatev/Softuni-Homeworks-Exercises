@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P01_Students\bin\Debug\P01_Students.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P01_Students\bin\Debug\P01_Students.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P01_Students\bin\Debug\P01_Students.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P01_Students\obj\Debug\P01_Students.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P01_Students\obj\Debug\P01_Students.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P01_Students\obj\Debug\P01_Students.pdb

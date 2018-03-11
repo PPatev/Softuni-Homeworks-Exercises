@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P02_BookShop\bin\Debug\P02_BookShop.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P02_BookShop\bin\Debug\P02_BookShop.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P02_BookShop\bin\Debug\P02_BookShop.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P02_BookShop\obj\Debug\P02_BookShop.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P02_BookShop\obj\Debug\P02_BookShop.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P02_BookShop\obj\Debug\P02_BookShop.pdb

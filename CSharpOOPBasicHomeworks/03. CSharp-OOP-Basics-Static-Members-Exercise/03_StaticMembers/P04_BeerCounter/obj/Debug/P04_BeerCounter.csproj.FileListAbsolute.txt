@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P04_BeerCounter\bin\Debug\P04_BeerCounter.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P04_BeerCounter\bin\Debug\P04_BeerCounter.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P04_BeerCounter\bin\Debug\P04_BeerCounter.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P04_BeerCounter\obj\Debug\P04_BeerCounter.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P04_BeerCounter\obj\Debug\P04_BeerCounter.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P04_BeerCounter\obj\Debug\P04_BeerCounter.pdb

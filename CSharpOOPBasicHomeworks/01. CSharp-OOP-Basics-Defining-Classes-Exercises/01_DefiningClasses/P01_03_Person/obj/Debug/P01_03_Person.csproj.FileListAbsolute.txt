@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P01_03_Person\P01_03_Person\bin\Debug\P01_03_Person.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P01_03_Person\P01_03_Person\bin\Debug\P01_03_Person.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P01_03_Person\P01_03_Person\bin\Debug\P01_03_Person.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P01_03_Person\P01_03_Person\obj\Debug\P01_03_Person.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P01_03_Person\P01_03_Person\obj\Debug\P01_03_Person.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P01_03_Person\P01_03_Person\obj\Debug\P01_03_Person.pdb

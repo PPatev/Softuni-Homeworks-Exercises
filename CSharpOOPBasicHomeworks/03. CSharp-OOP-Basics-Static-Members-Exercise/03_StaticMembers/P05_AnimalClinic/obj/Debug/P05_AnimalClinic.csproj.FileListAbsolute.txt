@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P05_AnimalClinic\bin\Debug\P05_AnimalClinic.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P05_AnimalClinic\bin\Debug\P05_AnimalClinic.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P05_AnimalClinic\bin\Debug\P05_AnimalClinic.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P05_AnimalClinic\obj\Debug\P05_AnimalClinic.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P05_AnimalClinic\obj\Debug\P05_AnimalClinic.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P05_AnimalClinic\obj\Debug\P05_AnimalClinic.pdb

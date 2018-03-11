@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P06_RawData\bin\Debug\P06_RawData.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P06_RawData\bin\Debug\P06_RawData.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P06_RawData\bin\Debug\P06_RawData.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P06_RawData\obj\Debug\P06_RawData.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P06_RawData\obj\Debug\P06_RawData.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P06_RawData\obj\Debug\P06_RawData.pdb

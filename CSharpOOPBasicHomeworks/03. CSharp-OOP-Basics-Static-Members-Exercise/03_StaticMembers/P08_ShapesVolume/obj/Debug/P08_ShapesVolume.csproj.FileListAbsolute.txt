@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P08_ShapesVolume\bin\Debug\P08_ShapesVolume.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P08_ShapesVolume\bin\Debug\P08_ShapesVolume.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P08_ShapesVolume\bin\Debug\P08_ShapesVolume.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P08_ShapesVolume\obj\Debug\P08_ShapesVolume.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P08_ShapesVolume\obj\Debug\P08_ShapesVolume.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\03. CSharp-OOP-Basics-Static-Members-Exercise\03_StaticMembers\P08_ShapesVolume\obj\Debug\P08_ShapesVolume.pdb

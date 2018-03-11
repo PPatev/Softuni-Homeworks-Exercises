@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P05_SpeedRacing\bin\Debug\P05_SpeedRacing.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P05_SpeedRacing\bin\Debug\P05_SpeedRacing.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P05_SpeedRacing\bin\Debug\P05_SpeedRacing.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P05_SpeedRacing\obj\Debug\P05_SpeedRacing.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P05_SpeedRacing\obj\Debug\P05_SpeedRacing.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P05_SpeedRacing\obj\Debug\P05_SpeedRacing.pdb

@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P01_Person\bin\Debug\P01_Person.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P01_Person\bin\Debug\P01_Person.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P01_Person\bin\Debug\P01_Person.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P01_Person\obj\Debug\P01_Person.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P01_Person\obj\Debug\P01_Person.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P01_Person\obj\Debug\P01_Person.pdb

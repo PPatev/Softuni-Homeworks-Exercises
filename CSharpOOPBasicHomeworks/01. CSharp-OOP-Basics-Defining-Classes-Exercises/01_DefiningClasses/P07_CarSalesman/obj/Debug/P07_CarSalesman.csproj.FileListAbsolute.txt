@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P07_CarSalesman\bin\Debug\P07_CarSalesman.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P07_CarSalesman\bin\Debug\P07_CarSalesman.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P07_CarSalesman\bin\Debug\P07_CarSalesman.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P07_CarSalesman\obj\Debug\P07_CarSalesman.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P07_CarSalesman\obj\Debug\P07_CarSalesman.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P07_CarSalesman\obj\Debug\P07_CarSalesman.pdb

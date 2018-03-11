@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P07_ImmutableList\bin\Debug\P07_ImmutableList.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P07_ImmutableList\bin\Debug\P07_ImmutableList.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P07_ImmutableList\bin\Debug\P07_ImmutableList.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P07_ImmutableList\obj\Debug\P07_ImmutableList.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P07_ImmutableList\obj\Debug\P07_ImmutableList.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P07_ImmutableList\obj\Debug\P07_ImmutableList.pdb

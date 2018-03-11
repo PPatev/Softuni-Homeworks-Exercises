@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P02_ClassBoxDataValidation\bin\Debug\P02_ClassBoxDataValidation.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P02_ClassBoxDataValidation\bin\Debug\P02_ClassBoxDataValidation.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P02_ClassBoxDataValidation\bin\Debug\P02_ClassBoxDataValidation.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P02_ClassBoxDataValidation\obj\Debug\P02_ClassBoxDataValidation.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P02_ClassBoxDataValidation\obj\Debug\P02_ClassBoxDataValidation.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P02_ClassBoxDataValidation\obj\Debug\P02_ClassBoxDataValidation.pdb

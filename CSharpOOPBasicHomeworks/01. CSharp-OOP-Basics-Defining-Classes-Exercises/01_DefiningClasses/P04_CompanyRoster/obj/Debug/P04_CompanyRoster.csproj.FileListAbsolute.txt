@@ -1,0 +1,9 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P04_CompanyRoster\P04_CompanyRoster\bin\Debug\P04_CompanyRoster.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P04_CompanyRoster\P04_CompanyRoster\bin\Debug\P04_CompanyRoster.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P04_CompanyRoster\P04_CompanyRoster\bin\Debug\P04_CompanyRoster.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P04_CompanyRoster\P04_CompanyRoster\obj\Debug\P04_CompanyRoster.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P04_CompanyRoster\P04_CompanyRoster\obj\Debug\P04_CompanyRoster.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\P04_CompanyRoster\P04_CompanyRoster\obj\Debug\P04_CompanyRoster.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P04_CompanyRoster\bin\Debug\P04_CompanyRoster.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P04_CompanyRoster\obj\Debug\P04_CompanyRoster.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\01. CSharp-OOP-Basics-Defining-Classes-Exercises\01_DefiningClasses\P04_CompanyRoster\obj\Debug\P04_CompanyRoster.pdb

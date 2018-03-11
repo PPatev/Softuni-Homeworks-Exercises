@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P04_MordorsCrueltyPlan\bin\Debug\P04_MordorsCrueltyPlan.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P04_MordorsCrueltyPlan\bin\Debug\P04_MordorsCrueltyPlan.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P04_MordorsCrueltyPlan\bin\Debug\P04_MordorsCrueltyPlan.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P04_MordorsCrueltyPlan\obj\Debug\P04_MordorsCrueltyPlan.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P04_MordorsCrueltyPlan\obj\Debug\P04_MordorsCrueltyPlan.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P04_MordorsCrueltyPlan\obj\Debug\P04_MordorsCrueltyPlan.pdb

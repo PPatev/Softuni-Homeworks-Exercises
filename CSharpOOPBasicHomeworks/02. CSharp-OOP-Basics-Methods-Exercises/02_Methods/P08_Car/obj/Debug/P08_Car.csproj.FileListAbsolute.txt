@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P08_Car\bin\Debug\P08_Car.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P08_Car\bin\Debug\P08_Car.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P08_Car\bin\Debug\P08_Car.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P08_Car\obj\Debug\P08_Car.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P08_Car\obj\Debug\P08_Car.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P08_Car\obj\Debug\P08_Car.pdb

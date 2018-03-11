@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P06_FootballTeamGenerator\bin\Debug\P06_FootballTeamGenerator.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P06_FootballTeamGenerator\bin\Debug\P06_FootballTeamGenerator.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P06_FootballTeamGenerator\bin\Debug\P06_FootballTeamGenerator.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P06_FootballTeamGenerator\obj\Debug\P06_FootballTeamGenerator.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P06_FootballTeamGenerator\obj\Debug\P06_FootballTeamGenerator.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P06_FootballTeamGenerator\obj\Debug\P06_FootballTeamGenerator.csprojResolveAssemblyReference.cache

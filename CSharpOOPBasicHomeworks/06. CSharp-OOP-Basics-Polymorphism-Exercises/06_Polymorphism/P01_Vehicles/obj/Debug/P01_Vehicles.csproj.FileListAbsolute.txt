@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\06. CSharp-OOP-Basics-Polymorphism-Exercises\06_Polymorphism\P01_Vehicles\bin\Debug\P01_Vehicles.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\06. CSharp-OOP-Basics-Polymorphism-Exercises\06_Polymorphism\P01_Vehicles\bin\Debug\P01_Vehicles.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\06. CSharp-OOP-Basics-Polymorphism-Exercises\06_Polymorphism\P01_Vehicles\bin\Debug\P01_Vehicles.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\06. CSharp-OOP-Basics-Polymorphism-Exercises\06_Polymorphism\P01_Vehicles\obj\Debug\P01_Vehicles.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\06. CSharp-OOP-Basics-Polymorphism-Exercises\06_Polymorphism\P01_Vehicles\obj\Debug\P01_Vehicles.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\06. CSharp-OOP-Basics-Polymorphism-Exercises\06_Polymorphism\P01_Vehicles\obj\Debug\P01_Vehicles.pdb

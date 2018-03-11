@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P05_OnlineRadioDatabase\bin\Debug\P05_OnlineRadioDatabase.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P05_OnlineRadioDatabase\bin\Debug\P05_OnlineRadioDatabase.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P05_OnlineRadioDatabase\bin\Debug\P05_OnlineRadioDatabase.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P05_OnlineRadioDatabase\obj\Debug\P05_OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P05_OnlineRadioDatabase\obj\Debug\P05_OnlineRadioDatabase.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P05_OnlineRadioDatabase\obj\Debug\P05_OnlineRadioDatabase.pdb

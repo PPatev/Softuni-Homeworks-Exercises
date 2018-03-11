@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P06_Animals\bin\Debug\P06_Animals.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P06_Animals\bin\Debug\P06_Animals.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P06_Animals\bin\Debug\P06_Animals.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P06_Animals\obj\Debug\P06_Animals.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P06_Animals\obj\Debug\P06_Animals.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\05. CSharp-OOP-Basics-Inheritance-Exercises\05_Inheritance\P06_Animals\obj\Debug\P06_Animals.pdb

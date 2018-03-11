@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P03_AnimalFarm\bin\Debug\P03_AnimalFarm.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P03_AnimalFarm\bin\Debug\P03_AnimalFarm.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P03_AnimalFarm\bin\Debug\P03_AnimalFarm.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P03_AnimalFarm\obj\Debug\P03_AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P03_AnimalFarm\obj\Debug\P03_AnimalFarm.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P03_AnimalFarm\obj\Debug\P03_AnimalFarm.pdb

@@ -1,0 +1,5 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P12_PrintPeople\bin\Debug\P12_PrintPeople.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P12_PrintPeople\bin\Debug\P12_PrintPeople.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P12_PrintPeople\bin\Debug\P12_PrintPeople.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P12_PrintPeople\obj\Debug\P12_PrintPeople.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\02. CSharp-OOP-Basics-Methods-Exercises\02_Methods\P12_PrintPeople\obj\Debug\P12_PrintPeople.pdb

@@ -1,0 +1,6 @@
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P04_ShoppingSpree\bin\Debug\P04_ShoppingSpree.exe.config
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P04_ShoppingSpree\bin\Debug\P04_ShoppingSpree.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P04_ShoppingSpree\bin\Debug\P04_ShoppingSpree.pdb
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P04_ShoppingSpree\obj\Debug\P04_ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P04_ShoppingSpree\obj\Debug\P04_ShoppingSpree.exe
+C:\Users\packbell\Desktop\Prog\11 - OOP - C-SHARP\04. CSharp-OOP-Basics-Encapsulation-Exercises\04_Encapsulation\P04_ShoppingSpree\obj\Debug\P04_ShoppingSpree.pdb

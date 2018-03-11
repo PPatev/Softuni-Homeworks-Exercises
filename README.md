@@ -1,2 +1,2 @@
 # Softuni-Homeworks-Exercises
-A repo for homeworks and exercises from Softuni
+A repository for homeworks and exercises from Softuni
